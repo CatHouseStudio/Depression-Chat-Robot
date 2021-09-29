@@ -2,31 +2,29 @@
 
 [中文](./README_cn.md)
 
-  - [Brief-account](#Brief-account)
-    - [Project-Propose](#Project-Propose)
-    - [Project-Background](#Project-Background)
-  - [Install](#Install)
-  - [Use](#Use)
-  - [Other](#Other)
-  - [Thank](#Thank)
+- [Brief-account](#Brief-account)
+  - [Project-Propose](#Project-Propose)
+  - [Project-Background](#Project-Background)
+- [Install](#Install)
+- [Use](#Use)
+- [Other](#Other)
+- [Thank](#Thank)
 
 ## Brief-account
 
 ### Project-Propose
 
 ```
-This project aims to provide chat robots in social media for the prevention and treatment of depression and other negative mental illnesses.
+This project aims to provide chat robots in social media for the prevention and relief of negative mental illnesses such as depression.
 
 Of course, this project cannot replace conventional treatment methods such as drugs.
 ```
-
 
 ### Project-Background
 
 ```
 The cause of the project is the lack of actions of psychiatrists and mental health center doctors at this stage. The medical treatment process is full of prescribing and adjusting drugs, and there is a lack of necessary psychological counseling and communication.
 ```
-
 
 ## Install
 
